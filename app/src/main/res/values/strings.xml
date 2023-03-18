@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">pacman</string>
+    <string name="title_activity_pacman">gabePacman</string>
+</resources>
